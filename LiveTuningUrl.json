@@ -1,0 +1,27 @@
+{
+	"Blueprint'/Game/PrimalEarth/Structures/CookingPot.CookingPot'":
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 4
+	},
+	"Blueprint'/Game/PrimalEarth/Structures/IndustrialCookingPot.IndustrialCookingPot'":
+	{
+		"DecayDestructionPeriod": 6500,
+		"DecayDestructionPeriodMultiplier": 4
+	},
+    "Blueprint'/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'":
+    {
+        "bConditionallyEnableMeshCheckWhenFalling": false,
+        "bConditionallyEnableMeshCheckWhenFlying": false
+    },
+    "Blueprint'/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP'":
+    {
+        "bConditionallyEnableMeshCheckWhenFalling": false,
+        "bConditionallyEnableMeshCheckWhenFlying": false
+    },
+	"Blueprint'/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP'":
+	{
+	    "bConditionallyEnableMeshCheckWhenFalling": false,
+        "bConditionallyEnableMeshCheckWhenFlying": false
+    }
+} 
